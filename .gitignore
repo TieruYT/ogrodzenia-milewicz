@@ -1,0 +1,16 @@
+# Backup pelnej jakosci zdjec (nie ladowac do repo)
+img/realizacje/_original/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Edytory
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logi
+*.log
