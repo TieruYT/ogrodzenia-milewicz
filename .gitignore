@@ -1,6 +1,9 @@
 # Backup pelnej jakosci zdjec (nie ladowac do repo)
 img/realizacje/_original/
 
+# Dokumentacja wewnetrzna (backup na Google Drive)
+HISTORIA_PROJEKTU.md
+
 # OS
 .DS_Store
 Thumbs.db
