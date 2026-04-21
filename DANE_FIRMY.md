@@ -16,7 +16,7 @@
 | **Telefon** | +48 667 364 882 |
 | **Email** | piotr.milewicz14@wp.pl |
 | **Adres** | ul. Owocowa 14, 87-123 Głogowo |
-| **Lokalizacja** | Powiat toruński, Gmina Lubicz |
+| **Lokalizacja** | Powiat toruński, Gmina Obrowo |
 
 ## Dane rejestrowe
 
@@ -34,5 +34,5 @@ Niedziela: nieczynne
 
 - Głogowo
 - Toruń
-- Gmina Lubicz
+- Gmina Obrowo
 - Okolice (cały powiat toruński)
