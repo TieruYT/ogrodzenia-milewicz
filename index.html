@@ -519,7 +519,7 @@
         });
 
         // --- Lightbox galerii ---
-        const galleryImages = Array.from(document.querySelectorAll('#realizacje img')).map(img => img.src);
+        const galleryImages = Array.from(document.querySelectorAll('#realizacje .grid img')).map(img => img.src);
         let currentImageIndex = 0;
         const lightbox = document.getElementById('lightbox');
         const lightboxImg = document.getElementById('lightbox-img');
